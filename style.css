@@ -45,10 +45,11 @@ height: 757px;
    width: 130px;
    color: #D8CFD0;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   
-   
- 
 
+}
+h2:hover{
+    transform: scale(1.1);
+    transition: .4s;
 }
  .l-content {
     
